@@ -16,5 +16,5 @@ Freebie.create(item_name: "hat", value: 20, company_id: facebook.id, dev_id: mor
 Freebie.create(item_name: "eraser", value: 30, company_id: dunder.id, dev_id: meseeks.id)
 Freebie.create(item_name: "eraser", value: 30, company_id: google.id, dev_id: gazor.id)
 Freebie.create(item_name: "cigar", value: 100, company_id: dunder.id, dev_id: rick.id)
-
+# could also do (dev: rick, company:google)
 puts "Seeding done!"
